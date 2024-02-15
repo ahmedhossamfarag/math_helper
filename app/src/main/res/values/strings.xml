@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MathHelper</string>
+    <string-array name="home_list">
+        <item>Solve Equations In Complex Domain</item>
+        <item>Solve Equations In S Domain</item>
+    </string-array>
+    <string name="x_label">x%x</string>
+    <string name="edit">%s</string>
+    <string name="no_solution">No Solution</string>
+</resources>
